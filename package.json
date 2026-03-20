@@ -1,0 +1,21 @@
+{
+  "name": "devopsdiego",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniDasp/DevopsDiego.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/UniDasp/DevopsDiego/issues"
+  },
+  "homepage": "https://github.com/UniDasp/DevopsDiego#readme"
+}
